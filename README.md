@@ -2,6 +2,11 @@
 
 ## Team Information
 - **Team Name**: TECH ORBIT
+- **Team members**:
+  1. PANCHAKARLA LEELA SAI RAM
+  2. MANASWI KOCHI
+  3. KUSHI K.T
+  4. CHENDANA P
 
 
 ## Problem Statement
