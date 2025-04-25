@@ -2,7 +2,7 @@
 
 ## Team Information
 - **Team Name**: TECH ORBIT
-- **Team ID**: Your Team ID
+
 
 ## Problem Statement
 The task is to develop a Python program that normalizes the brightness of a set of grayscale satellite images. The program adjusts the brightness such that the global average intensity of all images becomes uniform.
