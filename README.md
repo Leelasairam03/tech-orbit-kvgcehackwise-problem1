@@ -49,3 +49,11 @@ Now, when users download/clone this repository, they will find the `sample_input
 
 ## Expected Output
 The program will generate normalized images as normalized_image1.png to normalized_image10.png in the output directory. Each image will have its brightness adjusted such that its average intensity is within ±1 of the computed global average.
+
+## The GUI interface supports the following workflow:
+
+1. Users select the folder containing the input images (sample_input).
+
+2. They choose or create a folder where the output should be stored (sample_output).
+
+3. On clicking "Normalize Images", the process begins and displays the computed global average and scaling factors.
